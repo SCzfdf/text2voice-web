@@ -38,3 +38,5 @@ API2(lobe-api) 通过 [Deno](https://dash.deno.com/) 在 Playground 中部署 [d
 + speakers.json 中， 第 3 行修改 `https://ttsapi.zwei.de.eu.org/tts` 改成你 workers 部署的 API **链接 + /tts** ，第 50 行`https://tts-api.deno.dev/v1/audio/speech` 改成你 Deno 部署的API **链接+ /v1/audio/speech**
 + 部署本项目到 Cloudflare Pages 或者 Vercel 等类似平台。
 + 设置自定义域名
+
+
